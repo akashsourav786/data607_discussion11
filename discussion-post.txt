@@ -1,0 +1,9 @@
+Discussion title: Steam's Interactive Recommender: Beyond Past Playtime
+
+For Discussion 11, I analyzed Steam's Interactive Recommender from both the player's and Valve's organizational perspectives. Valve's published explanation describes a neural model trained on gameplay histories, with controls for exploring popular or niche games, release dates, and tags. I distinguish this documented description from my own inferences and acknowledge that I did not inspect signed-in recommendations.
+
+My main argument is that past behavior does not fully explain what someone wants next. A player with hundreds of hours in a multiplayer game may currently want a short, single-player experience. I recommend clearer goal-setting, explanations of exclusion controls, coordinated discovery for sparse histories, and evaluation of satisfaction after purchase.
+
+The GitHub repository linked with this post contains my Quarto notebook and generated Markdown report.
+
+Question for discussion: Should a game recommender prioritize demonstrated past behavior or a player's stated goal when the two point in different directions?
