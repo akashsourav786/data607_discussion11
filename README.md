@@ -22,7 +22,3 @@ No R or Python code runs in the notebook. No packages, account credentials, priv
 ## Research scope
 
 The report answers the three scenario-design questions separately for players and Valve's organizational stakeholders, reconstructs the documented recommendation approach, and proposes four prioritized improvements with evaluation measures. The public recommender redirected to sign-in during research. Interface features are therefore attributed to Valve's documentation, rather than presented as personally tested controls. Technical announcements from 2019 are explicitly identified as historical.
-
-## Submit
-
-Upload these files to a GitHub repository your instructor can access. Use the text in `discussion-post.txt` for the course discussion and add the actual repository URL. The rendered Markdown and required Quarto source will both be available in the repository.
